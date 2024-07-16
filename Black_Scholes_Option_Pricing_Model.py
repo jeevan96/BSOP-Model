@@ -181,7 +181,7 @@ with st.sidebar:
     vol_range = np.linspace(vol_min, vol_max, 10)
 
 # Main Page for Output Display
-st.title("Black-Scholes Pricing Model")
+st.title("Black-Scholes Option Pricing Model")
 
 # Table of Inputs
 input_data = {
